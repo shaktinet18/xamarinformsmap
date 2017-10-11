@@ -1,0 +1,17 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="e:\new xamarin\ezi.custommap\ezi.custommap\ezi.custommap.winphone\obj\x86\debug\intermediatexaml\ezi.custommap.winphone.exe" HashGuid="50a64722-7ea8-744b-f0cc-d8d4ccc52076" />
+    <ReferenceAssembly PathName="d:\projects\xamr\ezi.custommap\ezi.custommap\ezi.custommap\ezi.custommap\bin\debug\ezi.custommap.dll" HashGuid="e101a437-bc06-f9e9-12e1-52692540496d" />
+    <ReferenceAssembly PathName="d:\projects\xamr\ezi.custommap\ezi.custommap\packages\newtonsoft.json.9.0.1\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="424e6aa8-ba94-c678-e707-af9fe9838e1a" />
+    <ReferenceAssembly PathName="d:\projects\xamr\ezi.custommap\ezi.custommap\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="d:\projects\xamr\ezi.custommap\ezi.custommap\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="d:\projects\xamr\ezi.custommap\ezi.custommap\packages\tk.custommap.1.5.1\lib\portable-net45+win8+wpa81+wp8\tk.custommap.dll" HashGuid="68cedd50-d962-f093-3aca-751f509d40cb" />
+    <ReferenceAssembly PathName="d:\projects\xamr\ezi.custommap\ezi.custommap\packages\xamarin.forms.2.4.0.282\lib\wpa81\xamarin.forms.core.dll" HashGuid="d09bf605-5bda-aace-bfd7-f60438db4c6f" />
+    <ReferenceAssembly PathName="d:\projects\xamr\ezi.custommap\ezi.custommap\packages\xamarin.forms.maps.2.4.0.282\lib\wpa81\xamarin.forms.maps.dll" HashGuid="c03e0255-e2dd-0147-9cb0-3d3e9c17d666" />
+    <ReferenceAssembly PathName="d:\projects\xamr\ezi.custommap\ezi.custommap\packages\xamarin.forms.maps.2.4.0.282\lib\wpa81\xamarin.forms.maps.winrt.phone.dll" HashGuid="246318b7-e878-170e-67d9-b3882c681109" />
+    <ReferenceAssembly PathName="d:\projects\xamr\ezi.custommap\ezi.custommap\packages\xamarin.forms.2.4.0.282\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="d:\projects\xamr\ezi.custommap\ezi.custommap\packages\xamarin.forms.2.4.0.282\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="96112cfc-b41b-437f-917f-048837a36494" />
+    <ReferenceAssembly PathName="d:\projects\xamr\ezi.custommap\ezi.custommap\packages\xamarin.forms.2.4.0.282\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="53a9e4af-538e-1bae-ce9d-4c138447fb3a" />
+    <ReferenceAssembly PathName="d:\projects\xamr\ezi.custommap\ezi.custommap\packages\xamarin.forms.2.4.0.282\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="b77b1c10-133a-bf66-d461-e1d7e61b08f7" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

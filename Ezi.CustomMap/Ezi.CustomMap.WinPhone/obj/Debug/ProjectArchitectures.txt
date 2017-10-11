@@ -1,0 +1,2 @@
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.WinPhone\Ezi.CustomMap.WinPhone.csproj;neutral
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.csproj;neutral

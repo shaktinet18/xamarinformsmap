@@ -1,0 +1,2 @@
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.WinPhone\Ezi.CustomMap.WinPhone.csproj;x86
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.csproj;neutral

@@ -1,0 +1,68 @@
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Ezi.CustomMap.dll.config
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Ezi.CustomMap.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Ezi.CustomMap.pdb
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Newtonsoft.Json.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\System.Net.Http.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\System.Net.Http.Extensions.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\System.Net.Http.Primitives.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\TK.CustomMap.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Core.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Maps.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Platform.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Newtonsoft.Json.xml
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\System.Net.Http.xml
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\System.Net.Http.Extensions.xml
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\System.Net.Http.Primitives.xml
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\TK.CustomMap.xml
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Core.pdb
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Core.xml
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Maps.xml
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.csproj.App.config
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.Pages.SamplePage.xaml.g.cs
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.Pages.AddRoutePage.xaml.g.cs
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.Pages.PinListPage.xaml.g.cs
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.Pages.HtmlInstructionsPage.xaml.g.cs
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.pdb
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.csprojResolveAssemblyReference.cache
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.dll.mdb
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Ezi.CustomMap.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Ezi.CustomMap.dll.config
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Ezi.CustomMap.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Ezi.CustomMap.pdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\System.Net.Http.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\System.Net.Http.Extensions.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\System.Net.Http.Primitives.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\TK.CustomMap.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Core.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Maps.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\System.Net.Http.xml
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\System.Net.Http.Extensions.xml
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\System.Net.Http.Primitives.xml
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\TK.CustomMap.xml
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Core.xml
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Maps.xml
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.csproj.App.config
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.Pages.SamplePage.xaml.g.cs
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.Pages.AddRoutePage.xaml.g.cs
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.Pages.PinListPage.xaml.g.cs
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.Pages.HtmlInstructionsPage.xaml.g.cs
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.pdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Ezi.CustomMap.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.csprojResolveAssemblyReference.cache
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\obj\Debug\Ezi.CustomMap.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\bin\Debug\Ezi.CustomMap.dll.mdb

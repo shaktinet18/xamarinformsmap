@@ -1,0 +1,142 @@
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap.Droid.dll.config
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap.Droid.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap.Droid.pdb
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\FormsViewGroup.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\TK.CustomMap.Android.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\TK.CustomMap.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Core.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Maps.Android.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Maps.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap.pdb
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\FormsViewGroup.pdb
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\TK.CustomMap.xml
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\TK.CustomMap.Android.xml
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Core.xml
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Maps.xml
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\Ezi.CustomMap.Droid.csprojResolveAssemblyReference.cache
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\Ezi.CustomMap.Droid.dll
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\Ezi.CustomMap.Droid.pdb
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\res\drawable\icon.png
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\res\drawable-hdpi\icon.png
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\res\layout\tabbar.xml
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\res\layout\toolbar.xml
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\res\values\styles.xml
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\R.cs.flag
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\uploadflags.txt
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap.apk
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap-Signed.apk
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\bin\Ezi.CustomMap.apk
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\Ezi.CustomMap.Droid.dll.mdb
+E:\New Xamarin\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap.Droid.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap.Droid.dll.config
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap.Droid.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap.Droid.pdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap.apk
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap-Signed.apk
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\FormsViewGroup.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\TK.CustomMap.Android.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\TK.CustomMap.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Maps.Android.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Maps.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap.pdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\FormsViewGroup.pdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\FormsViewGroup.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\TK.CustomMap.xml
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\TK.CustomMap.Android.xml
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Maps.xml
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\Ezi.CustomMap.Droid.csprojResolveAssemblyReference.cache
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\Ezi.CustomMap.Droid.dll
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\Ezi.CustomMap.Droid.pdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\bin\Ezi.CustomMap.apk
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\res\drawable\icon.png
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\res\drawable-hdpi\icon.png
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\res\layout\tabbar.xml
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\res\layout\toolbar.xml
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\res\values\styles.xml
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\R.cs.flag
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\uploadflags.txt
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap.Droid.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Java.Interop.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Mono.Android.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Mono.CSharp.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\mscorlib.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\System.Core.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\System.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\System.Net.Http.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\System.Xml.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\Ezi.CustomMap.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\Ezi.CustomMap.Droid.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\System.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\obj\Debug\Ezi.CustomMap.Droid.dll.mdb
+D:\Projects\Xamr\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap\Ezi.CustomMap.Droid\bin\Debug\Ezi.CustomMap.Droid.dll.mdb
